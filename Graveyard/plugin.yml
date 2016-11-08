@@ -1,0 +1,10 @@
+name: Graveyard
+main: me.Juan_Pablo.Main
+version: 1.0
+description: Custom Made Plugin. Made By Juan_Pablo
+
+commands:
+    help:
+        description: Lists All The Commands You Have Access To
+    website:
+        description: Lists The Website URL
